@@ -40,9 +40,9 @@ Frontend <br/> <img src="https://skillicons.dev/icons?i=html,css,tailwind" heigh
 
 Backend <br/> <img src="https://skillicons.dev/icons?i=django" height="45"/>
 
-Databases <br/> <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="45"/>
+Databases <br/> <img src="https://skillicons.dev/icons?i=mysql" height="45"/>
 
-Tools & Platforms <br/> <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux" height="45"/>
+Tools & Platforms <br/> <img src="https://skillicons.dev/icons?i=git,github,aws,linux" height="45"/>
 
 </div> <!-- Fallback shields (kept for compatibility / recruiters scanning quickly) --> <details> <summary>📋 View skill badges (text list)</summary> <br/>
 
