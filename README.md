@@ -94,7 +94,6 @@ Push — GitHub Actions will generate the animated snake automatically.
 📫 Let's Connect
 <div align="center">
 
-<a href="https://www.linkedin.com/in/harika-nayudu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:harikanayudu18@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/Harikanayudu18"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 
 <br/><br/>
 
