@@ -11,8 +11,7 @@ name:            "Harika Veera Madhulika Nayudu"
 title:           "Web Developer | Machine Learning Engineer"
 role:            "Undergraduate Student"
 education:       "B.Tech — International School of Technology and Sciences for Women"
-currentFocus:    ["Building portfolio-worthy projects", "Cloud Computing", "AWS"]
-funFact:         "I turn ideas into practical, working products 🚀"
+currentFocus:    "Building portfolio-worthy projects", "Cloud Computing", "AWS"
 <table> <tr> <td width="50%" valign="top">
 👋 Who I Am
 
@@ -58,7 +57,6 @@ Machine learning app predicting urban service delays and risk levels from servic
 
 Stack: Python Pandas NumPy Scikit-learn Matplotlib Streamlit
 
-🔗 View Repo
 
 </td> <td width="33%" valign="top">
 🎙️ AI Voice Assistant
@@ -67,7 +65,6 @@ Command-based AI voice assistant that understands voice commands and performs ta
 
 Stack: Python AI Speech Recognition
 
-🔗 View Repo
 
 </td> <td width="33%" valign="top">
 🛍️ Black Friday Sales Web App
@@ -76,12 +73,7 @@ Responsive e-commerce landing page with an interactive UI built for a Black Frid
 
 Stack: HTML CSS JavaScript Bootstrap
 
-🔗 View Repo
-
 </td> </tr> </table>
-
-📌 Tip for you: pin these three repos on your GitHub profile (Customize your pins) so they appear as cards above this README too.
-
 📊 GitHub Analytics
 <div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harikanayudu18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikanayudu18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harikanayudu18&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Harikanayudu18&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" /> </div> <!-- Contribution graph snake — auto-generates after you set up the GitHub Action below --> <div align="center"> <img src="https://raw.githubusercontent.com/Harikanayudu18/Harikanayudu18/output/github-contribution-grid-snake.svg" width="100%"/> </div> <details> <summary>🐍 How to activate the snake animation above</summary> <br/>
 Create a file at .github/workflows/snake.yml in your profile repo.
