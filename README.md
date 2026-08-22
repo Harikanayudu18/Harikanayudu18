@@ -74,12 +74,6 @@ Responsive e-commerce landing page with an interactive UI built for a Black Frid
 Stack: HTML CSS JavaScript Bootstrap
 
 </td> </tr> </table>
-📊 GitHub Analytics
-<div align="center"> <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harikanayudu18&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" /> <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harikanayudu18&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harikanayudu18&theme=tokyonight&hide_border=true" /> </div> <div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Harikanayudu18&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=10" /> </div> <!-- Contribution graph snake — auto-generates after you set up the GitHub Action below --> <div align="center"> <img src="https://raw.githubusercontent.com/Harikanayudu18/Harikanayudu18/output/github-contribution-grid-snake.svg" width="100%"/> </div> <details> <summary>🐍 How to activate the snake animation above</summary> <br/>
-Create a file at .github/workflows/snake.yml in your profile repo.
-Paste in the Platane/snk action workflow (search "snk snake generator").
-Push — GitHub Actions will generate the animated snake automatically.
-</details>
 🏆 Achievements & Certifications
 🎓 Web Development Certification — Techvol
 💼 Web Development Internship — Techvol
@@ -95,6 +89,7 @@ Push — GitHub Actions will generate the animated snake automatically.
 <div align="center">
 
 
+<a href="https://www.linkedin.com/in/harika-nayudu"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:harikanayudu18@gmail.com"><img src="https://img.shields.io/badge/Gmail-Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://github.com/Harikanayudu18"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 <br/><br/>
 
 💬 "Always learning, always building — let's connect and create something great together!"
